@@ -1,0 +1,10 @@
+# Node
+client/node_modules
+client/dist
+
+# .NET
+server/bin
+server/obj
+
+# Logs
+server/logs
